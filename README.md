@@ -1,3 +1,3 @@
 # Guessing Game Project
-date +%Y-%m-%d %T
-n
+2021-12-20 11:15:04
+The file guessinggame.sh contains inecount lines.
