@@ -1,5 +1,6 @@
 # Guessing Game Project
-2021-12-20 11:47:22
+2021-12-20 11:50:39
 <br><br>
-1
-The file guessinggame.sh contains ode lines.
+The file guessinggame.sh contains 
+32
+ lines.
