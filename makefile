@@ -6,4 +6,4 @@ readme: guessinggame.sh
 	echo "<br><br>" >> README.md
 	echo "The file guessinggame.sh contains " >> README.md
 	cat guessinggame.sh | wc -l >> README.md
-	echo " lines." >> README.md
+	echo " lines of code." >> README.md
